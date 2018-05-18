@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "776724792422",
+    "firebase_url": "https://items-tracking.firebaseio.com",
+    "project_id": "items-tracking",
+    "storage_bucket": "items-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776724792422:android:0b7c41c02762be2c",
+        "android_client_info": {
+          "package_name": "com.keeping.itemstrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776724792422-9s31p773g3eiadchflbvot8s7f4uv2gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtl1ASCrlJeWJE_fnLTJnI6V0LfYCrsww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776724792422:android:e6017835a025f680",
+        "android_client_info": {
+          "package_name": "com.keeping.itemstrack.mock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776724792422-9s31p773g3eiadchflbvot8s7f4uv2gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtl1ASCrlJeWJE_fnLTJnI6V0LfYCrsww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

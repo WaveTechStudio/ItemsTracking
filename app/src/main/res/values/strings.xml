@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Items Tracking</string>
+    <string name="add_item">New item</string>
+    <string name="save">Save</string>
+    <string name="edit_item">Edit item</string>
+    <string name="item_marked_complete">Item marked complete</string>
+    <string name="item_marked_active">Item marked active</string>
+    <string name="loading_items_error">Error while loading items</string>
+    <string name="completed_items_cleared">Completed items cleared</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_clear">Clear completed</string>
+    <string name="menu_delete_item">Delete item</string>
+    <string name="navigation_view_header_title">Items</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Enter description</string>
+    <string name="cost_hint">Enter cost</string>
+    <string name="location_hint">Enter location</string>
+    <string name="empty_item_message">Item cannot be empty</string>
+    <string name="successfully_saved_item_message">Item saved</string>
+    <string name="successfully_synced_items">Synced successfully</string>
+    <string name="list_title">Item List</string>
+    <string name="statistics_title">Statistics</string>
+    <string name="statistics_no_items">You have no items.</string>
+    <string name="statistics_active_items">Active items:</string>
+    <string name="statistics_completed_items">Completed items:</string>
+    <string name="statistics_error">Error loading statistics.</string>
+    <string name="no_data">No data</string>
+    <string name="loading">LOADING</string>
+
+    <string-array name="list_items_array">
+        <item>@string/nav_sync</item>
+    </string-array>
+
+    <string name="nav_sync">Sync</string>
+    <string name="menu_sync">Sync</string>
+    <string name="nav_completed">Completed</string>
+    <string name="label_all">All Items</string>
+    <string name="label_active">Active Items</string>
+    <string name="label_completed">Completed Items</string>
+    <string name="no_items_all">You have no Items!</string>
+    <string name="no_items_active">You have no active Items!</string>
+    <string name="no_items_completed">You have no completed Items!</string>
+    <string name="no_items_add">Add a item</string>
+    <string name="refresh">Refresh</string>
+    <string name="attach">Attach image</string>
+
+</resources>

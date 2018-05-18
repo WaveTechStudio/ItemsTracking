@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_attach_file"
+        android:icon="@drawable/ic_action_attachment"
+        android:title="@string/attach"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_add_item"
+        android:icon="@drawable/ic_done"
+        android:title="@string/save"
+        app:showAsAction="always" />
+</menu>
