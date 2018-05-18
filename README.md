@@ -78,7 +78,7 @@ For Image picking from Camera/Gallery
          "items": [
              "-0f3b6efb-7689-4f2b-b6a0-e135b9a85fd8" : {
 			 "id" : "123"
-             "title" : "Byuing Shoes",
+             "title" : "Buying Shoes",
              "cost" : "200"
 			 "location" : "Gullberg III, Lahore, Pakistan"
 			 "description" : "I am buying sports shoes from NIKE. "
@@ -91,7 +91,7 @@ For Image picking from Camera/Gallery
 | items       | Value |
 | --------- |-----|
 | id  | 123 |
-| title     |   Byuing Shoes |
+| title     |   Buying Shoes |
 | cost      |    200$ |
 | location      |    Gullberg III, Lahore, Pakistan |
 | description      |    I am buying sports shoes from NIKE. |
