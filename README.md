@@ -121,14 +121,8 @@ For Image picking from Camera/Gallery
 
 
 # New Images
-
-<img align="left" src="./screens/01.png" alt="One" title="Angular" hspace="20"/>
-<img align="left" src="./screens/02.png" alt="Two" title="Bootstrap" hspace="20"/>
-<img align="left" src="./screens/03.png" alt="Three" title="Browsersync" hspace="20"/>
-<img align="left" src="./screens/04.png" alt="Four" title="Browsersync" hspace="20"/>
-<img align="left" src="./screens/05.png" alt="Five" title="Browsersync" hspace="20"/>
-<br/><br/><br/><br/><br/>
-
+<img src="./screens/01.png" width="200"/> <img src="./screens/02.png" width="300"/>
+<br/>
 
 
 ### Images
