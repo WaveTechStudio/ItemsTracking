@@ -120,12 +120,11 @@ For Image picking from Camera/Gallery
 - Clone or download the project open it with Android Studio compile and run it will work.
 
 ### Images
-|![](https://i.imgur.com/OaPcGoD.png)|![](https://i.imgur.com/nlaJ9It.png|
-![](https://i.imgur.com/OaPcGoD.png)
-![](https://i.imgur.com/nlaJ9It.png)
-![](https://i.imgur.com/0hZBMCk.png)
-![](https://i.imgur.com/ufHUy0h.png)
-![](https://i.imgur.com/Xx6eVah.png)
+![](https://github.com/WaveTechStudio/ItemsTracking/blob/master/screens/01.png)
+![](https://github.com/WaveTechStudio/ItemsTracking/blob/master/screens/02.png)
+![](https://github.com/WaveTechStudio/ItemsTracking/blob/master/screens/03.png)
+![](https://github.com/WaveTechStudio/ItemsTracking/blob/master/screens/04.png)
+![](https://github.com/WaveTechStudio/ItemsTracking/blob/master/screens/05.png)
 
 ## Author
 [Waheed Nazir (GreenProLogix)](https://www.linkedin.com/in/waheed-nazir-36521579/ "Waheed Nazir (GreenProLogix)")
