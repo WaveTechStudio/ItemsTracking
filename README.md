@@ -121,7 +121,7 @@ For Image picking from Camera/Gallery
 
 
 ### Images
-<img src="./screens/01.png" width="200"/><img src="./screens/02.png" width="200"/><img src="./screens/03.png" width="200"/>
+<img src="./screens/01.png" width="200"/> <img src="./screens/02.png" width="200"/> <img src="./screens/03.png" width="200"/>
 <img src="./screens/04.png" width="200"/><img src="./screens/05.png" width="200"/>
 <br/>
 
