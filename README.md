@@ -127,7 +127,7 @@ For Image picking from Camera/Gallery
 
 
 ## Author
-[Waheed Nazir (GreenProLogix)](https://www.linkedin.com/in/waheed-nazir-36521579/ "Waheed Nazir (GreenProLogix)")
+[Waheed Nazir](https://www.linkedin.com/in/waheed-nazir-36521579/ "Waheed Nazir (GreenProLogix)")
 
 ## License
 It is totally free to use. :)
